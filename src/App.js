@@ -40,6 +40,7 @@ function App() {
             <Route path='/contactme' element={<ContactMePage />} />     
             <Route path='/projects' element={<ProjectsPage />} />
             <Route path='/skills' element={<SkillsPage />} />
+            <Route path='/workexperince' element={<WorkExperiencePage />} />
             <Route path='/*' element={<Navigate to='/about' replace/>} />
         </Routes>
       </Router>
