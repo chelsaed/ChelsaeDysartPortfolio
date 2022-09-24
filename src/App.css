@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  color: azure;
 }
 
 .App-logo {
@@ -22,6 +23,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+
 }
 
 .App-link {
@@ -35,4 +37,23 @@
   to {
     transform: rotate(360deg);
   }
+}
+.link {
+  list-style-type: none;
+  text-align: center;
+  color: white;
+  }
+ul{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+li {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+
+img {
+  width: 50%;
 }
