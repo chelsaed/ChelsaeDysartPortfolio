@@ -5,7 +5,7 @@ const AboutPage = () => {
   return (
     <div>
         <h1>About Page</h1>
-        <p>Software Developer with a background in Information Technology. Dedicated to tackle technical issues by executing problem solving methods. Passionate about innovated technology and overcoming challenging technical issues. Leveraging a strong background in Information Technology utilizing time management, detail orientation, and impactful communication to approach each project with a collaborative prospective.</p>
+        <p>Software Developer with a background in Information Technology. Dedicated to complex issues by incorporating strategic problem solving that allows team collaboration amongst teams to deliver exceptional customer service results. Passionate about technology because it allows me to change, innovate, and create impactful software development. Leveraging a strong background in Information Technology to build technology that streamlines processes and promotes a collaborative approach.</p>
 
 
   <img alt='professionalPic' src={image}/>
