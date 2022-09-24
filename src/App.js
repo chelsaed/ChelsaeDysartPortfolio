@@ -6,7 +6,7 @@ import AboutPage from './pages/AboutPage/AboutPage';
 import SkillsPage from './pages/SkillsPage/SkillsPage';
 import ContactMePage from './pages/ContactMePage/ContactMePage';
 import ProjectsPage from './pages/ProjectsPage/ProjectsPage';
-import  WorkExperiencePage from './pages/WorkExperiencePage/WorkExperiencePage';
+
 //import all of your components to use them
 
 
@@ -30,7 +30,7 @@ function App() {
           <li><Link to="/contactme" className='link'>Contact Me</Link></li>
           <li><Link to="/projects" className='link'>Projects</Link></li>
           <li><Link to="/skills" className='link'>Skills</Link></li>
-          <li><Link to="/workexperience" className='link'>Work Experience</Link></li>
+          
           </ul>
         </nav> 
       
@@ -40,7 +40,6 @@ function App() {
             <Route path='/contactme' element={<ContactMePage />} />     
             <Route path='/projects' element={<ProjectsPage />} />
             <Route path='/skills' element={<SkillsPage />} />
-            <Route path='/workexperince' element={<WorkExperiencePage />} />
             <Route path='/*' element={<Navigate to='/about' replace/>} />
         </Routes>
       </Router>
