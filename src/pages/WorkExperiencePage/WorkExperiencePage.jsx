@@ -5,3 +5,4 @@ export const WorkExperiencePage = () => {
     <div>WorkExperiencePage</div>
   )
 }
+export default WorkExperiencePage
