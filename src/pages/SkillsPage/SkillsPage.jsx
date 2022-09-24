@@ -18,6 +18,15 @@ const SkillsPage = () => {
           <li>Node</li>
           <li>Express</li>
           <li>Git Hub</li>
+            <li>Heroku</li>
+            <li>Postman</li>
+            <li>Visual Studio Code</li>
+            <li>PostgreSQL</li>
+            <li>MongoDB</li>
+             <li>Mongoose</li>  
+             <li>jQuery</li> 
+              <li>Vanilla Python</li>
+
         </ul>
         </div>
   )
