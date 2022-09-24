@@ -9,7 +9,7 @@ const SkillsPage = () => {
       
       </br>
         <h1>SkillsPage</h1>
-        <ul>
+        
           <li>Azure</li>
           <li>CSS</li>
           <li>HTML</li>
@@ -25,9 +25,9 @@ const SkillsPage = () => {
             <li>MongoDB</li>
              <li>Mongoose</li>  
              <li>jQuery</li> 
-              <li>Vanilla Python</li>
+            <li>Vanilla Python</li>
 
-        </ul>
+        
         </div>
   )
 }
