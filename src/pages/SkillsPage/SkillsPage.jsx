@@ -10,7 +10,8 @@ const SkillsPage = () => {
       </br>
         <h1>SkillsPage</h1>
         
-          <li>Azure</li>
+          
+          
           <li>CSS</li>
           <li>HTML</li>
           <li>React</li>
@@ -26,10 +27,15 @@ const SkillsPage = () => {
              <li>Mongoose</li>  
              <li>jQuery</li> 
             <li>Vanilla Python</li>
+            <li>Azure</li>
+            <li>Bootstrap</li>
+            <li>Trello</li>
+            
 
         
         </div>
   )
 }
+
 
 export default SkillsPage
