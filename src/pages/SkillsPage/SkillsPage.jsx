@@ -8,7 +8,7 @@ const SkillsPage = () => {
       
       
       </br>
-        <h1>SkillsPage</h1>
+        <h1>Skills</h1>
         
           
           

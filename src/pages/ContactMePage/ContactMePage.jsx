@@ -5,7 +5,7 @@ import React from 'react'
 const ContactMePage = () => {
   return (
     <div>
-        <h1>Contact Me Page</h1>
+        <h1>Contact Me </h1>
         
        
 
