@@ -9,7 +9,7 @@ const ContactMePage = () => {
         
        
 
-        <button><a href='https://www.linkedin.com/in/chelsae-dysart/'>LinkedIn</a></button>
+        <button><a href='https://www.linkedin.com/in/chelsae-dysart/'>https://emoji.slack-edge.com/T0351JZQ0/linkedin/d99de7ac281450d9.png</a></button>
         </div>
   )
 }
